@@ -1,0 +1,14 @@
+
+Here's a list of all the material you need. Again, for more details, refer to my youtube.
+
+- HC-SR04 Ultrasonic Sensor
+
+- Arduino Uno (Or any arduino microcontrollers)
+
+- 9g Servo (Mine is a 360 servo. If you have a standard servo, you need to adjust the code slightly)
+
+- Breadboard
+
+- USB type A to USB type B cable
+
+- Jumper wires
